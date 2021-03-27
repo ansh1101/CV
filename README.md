@@ -1,1 +1,2 @@
 # CV
+permalink: /website.html
